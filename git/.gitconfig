@@ -1,0 +1,7 @@
+[user]
+	name = Javier Parada
+	email = javierparada73@outlook.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
